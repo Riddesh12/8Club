@@ -57,17 +57,34 @@ This onboarding app helps the platform assess applicants’ suitability by colle
 
 ## 🧠 Tech Stack
 
-* **Framework:** Flutter
-* **State Management:** BLoC
-* **Networking:** Dio
-* **Permissions:** permission_handler
-* **Audio Recording:** record
-* **Video Recording:** camera / video_player
-* **UI:** Material + Custom Animations
-* **Prototype:** https://drive.google.com/file/d/1qwhR9OUMKwEp5TCiN0HToYBmcCpbQrQv/view?usp=sharing
+| Component            | Technology                                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Framework**        | Flutter                                                                                                 |
+| **State Management** | BLoC                                                                                                    |
+| **Networking**       | Dio                                                                                                     |
+| **Permissions**      | permission_handler                                                                                      |
+| **Audio Recording**  | record                                                                                                  |
+| **Video Recording**  | camera / video_player                                                                                   |
+| **UI**               | Material + Custom Animations                                                                            |
+| **Prototype**        | [Google Drive Link](https://drive.google.com/file/d/1qwhR9OUMKwEp5TCiN0HToYBmcCpbQrQv/view?usp=sharing) |
+
+---
+
+## 🖼️ App Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/48e697d7-46e5-440f-904c-ad8cc287faa0" width="280" /></td>
+      <td><img src="https://github.com/user-attachments/assets/c43a2728-99fb-4784-97ee-4c72ed54950c" width="280" /></td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## 👨‍💻 Author
 
 **Riddesh Kankariya**
 Flutter Developer Intern
-📧 riddeshkankariya@gmail.com
+📧 [riddeshkankariya@gmail.com](mailto:riddeshkankariya@gmail.com)
